@@ -182,8 +182,8 @@
   "scripts": [
     {
       "name": "CSLoader.lua",
-      "content": "print(\"lol\")",
-      "createdAt": "2026-03-25T09:59:52.276Z"
+      "content": "local placeId = game.PlaceId\r\nlocal groupId = nil\r\nif game.CreatorType == Enum.CreatorType.Group then\r\n\tgroupId = game.CreatorId\r\nend\r\n\r\nif placeId == 142823291 or placeId == 335132309 or groupId == 142823291 then\r\n\tloadstring(game:HttpGet(\"http://carbonstudios.xyz/scripts/CSLoader.lua/mm2.lua\"))()\r\n\r\nelseif placeId == 6042520 or groupId == 6042520 then\r\n\tloadstring(game:HttpGet(\"http://carbonstudios.xyz/scripts/CSLoader.lua/99nights.lua\"))()\r\n\r\nelseif placeId == 35489258 or groupId == 35489258 then\r\n\tloadstring(game:HttpGet(\"http://carbonstudios.xyz/scripts/CSLoader.lua/forge.lua\"))()\r\n\r\nelseif placeId == 4372130 or placeId == 2753915549 or placeId == 4442272183 or placeId == 7449423635 or groupId == 4372130 then\r\n\tloadstring(game:HttpGet(\"http://carbonstudios.xyz/scripts/CSLoader.lua/bloxfruit.lua\"))()\r\n\r\nelseif placeId == 33548380 or groupId == 33548380 then\r\n\tloadstring(game:HttpGet(\"http://carbonstudios.xyz/scripts/CSLoader.lua/forsaken.lua\"))()\r\n\r\nelseif placeId == 139823084840 or groupId == 411609583 then\r\n\tloadstring(game:HttpGet(\"http://carbonstudios.xyz/scripts/CSLoader.lua/escapetsunamiforbrainrot.lua\"))()\r\n\r\nelseif placeId == 10449761463 then\r\n\tloadstring(game:HttpGet(\"http://carbonstudios.xyz/scripts/CSLoader.lua/tsbg.lua\"))()\r\n\r\nelseif placeId == 4520749081 or placeId == 6381829480 or placeId == 15759515082 or placeId == 5931540094 then\r\n\tloadstring(game:HttpGet(\"http://carbonstudios.xyz/scripts/CSLoader.lua/KingLegacy.lua\"))()\r\n\r\nelse\r\n\tlocal name = \"Unknown\"\r\n\tpcall(function() name = game:GetService(\"MarketplaceService\"):GetProductInfo(placeId).Name end)\r\n\tgame:GetService(\"StarterGui\"):SetCore(\"SendNotification\", {\r\n\t\tTitle = \"Not Supported\",\r\n\t\tText = name .. \" is not supported yet\",\r\n\t\tDuration = 5\r\n\t})\r\nend",
+      "createdAt": "2026-03-25T21:21:30.998Z"
     },
     {
       "name": "CSLoader.lua/mm2.lua",
