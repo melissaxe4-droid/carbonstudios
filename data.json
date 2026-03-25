@@ -1,6 +1,12 @@
 {
   "executors": [],
   "games": [],
-  "scripts": [],
+  "scripts": [
+    {
+      "name": "CSLoader.lua",
+      "content": "print(\"lol\")",
+      "createdAt": "2026-03-25T09:59:52.276Z"
+    }
+  ],
   "mappings": []
 }
