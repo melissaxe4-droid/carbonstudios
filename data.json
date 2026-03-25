@@ -1,5 +1,14 @@
 {
-  "executors": [],
+  "executors": [
+    {
+      "id": 1774471158670,
+      "name": "Xeno",
+      "status": "Offline",
+      "unc": "0",
+      "sunc": "0",
+      "type": "Free"
+    }
+  ],
   "games": [
     {
       "id": 1774469150846,
