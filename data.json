@@ -1,14 +1,5 @@
 {
-  "executors": [
-    {
-      "id": 1774471114730,
-      "name": "Xeno",
-      "status": "Updating",
-      "unc": "1",
-      "sunc": "1",
-      "type": "Free"
-    }
-  ],
+  "executors": [],
   "games": [
     {
       "id": 1774469150846,
