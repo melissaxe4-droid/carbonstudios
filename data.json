@@ -7,6 +7,14 @@
       "unc": "0",
       "sunc": "0",
       "type": "Free"
+    },
+    {
+      "id": 1774471239314,
+      "name": "Potassium",
+      "status": "Online",
+      "unc": "99",
+      "sunc": "98",
+      "type": "Paid"
     }
   ],
   "games": [
