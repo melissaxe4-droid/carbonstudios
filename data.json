@@ -71,6 +71,14 @@
       "unc": "90",
       "sunc": "90",
       "type": "Free"
+    },
+    {
+      "id": 1774471760379,
+      "name": "MacSploit",
+      "status": "Offline",
+      "unc": "100",
+      "sunc": "100",
+      "type": "Paid"
     }
   ],
   "games": [
