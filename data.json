@@ -31,6 +31,14 @@
       "unc": "100",
       "sunc": "100",
       "type": "Paid"
+    },
+    {
+      "id": 1774471505206,
+      "name": "Synapse Z",
+      "status": "Online",
+      "unc": "95",
+      "sunc": "97",
+      "type": "Paid"
     }
   ],
   "games": [
