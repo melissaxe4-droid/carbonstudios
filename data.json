@@ -23,6 +23,14 @@
       "unc": "100",
       "sunc": "100",
       "type": "Paid"
+    },
+    {
+      "id": 1774471445445,
+      "name": "Wave",
+      "status": "Online",
+      "unc": "100",
+      "sunc": "100",
+      "type": "Paid"
     }
   ],
   "games": [
