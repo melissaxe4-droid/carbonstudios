@@ -1,6 +1,14 @@
 {
   "executors": [],
-  "games": [],
+  "games": [
+    {
+      "id": 1774468808714,
+      "title": "The Strongest Battle Grounds",
+      "logo": "https://tr.rbxcdn.com/180DAY-ccd8bcf9f66dc37834534d2cb3cfd1b9/768/432/Image/Webp/noFilter",
+      "link": "https://www.roblox.com/games/10449761463/The-Strongest-Battlegrounds",
+      "description": "best tsb script :)"
+    }
+  ],
   "scripts": [
     {
       "name": "CSLoader.lua",
