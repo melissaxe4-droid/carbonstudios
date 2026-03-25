@@ -1,14 +1,6 @@
 {
   "executors": [],
-  "games": [
-    {
-      "id": 1774468559917,
-      "title": "The Strongest Battle Grounds",
-      "logo": "https://cdn.discordapp.com/attachments/1474311944033796117/1485819678071849071/tsb_image.jpg?ex=69c340e8&is=69c1ef68&hm=7bcb5065b5be7bdb68f234f3c48afddd7bdd1358f975bf56b3c19a455af77243&",
-      "link": "https://www.roblox.com/games/10449761463/The-Strongest-Battlegrounds",
-      "description": "MAIN FEATURES\n\n• Trashcan Kill Farm\n• Auto Get Emotes\n• Auto Reset Streak\n• Auto Farm Lowest Health\n• Auto Give Kills\n• Desync\n• Hitbox Extender\n\nFIGHTING\n\n• Advanced Combat Automation\n• Wall Combos + Everywhere Wall Combo\n• Auto Whirlwind Dunk\n• No Dash Cooldown\n\nLOCAL TECH\n\n• Pre-Made Tech Library\n• M1 Reset Tech\n• Orea Tech\n• Tornado Tech\n• Auto Kyoto Tech\n• Supa Dash Tech\n• Backdash (Mobile & PC)\n\nAUTO TECHS\n\n• Auto Tech\n• Auto True Slam\n• Auto Twisted Tech\n• Insta Twisted Tech\n• Auto Supa Stream\n• Flowing + Grasp\n• Upper + Grasp\n\nLAG / PING\n\n• Hide Trees / Walls / Grass / Benches\n• Performance Mode\n\nANIMATIONS\n\n• Custom Animation ID Input\n• Animation TP Usage\n\nTELEPORT PANEL\n\n• TP to Dummy / Frozen Lock\n• TP to Corners (1 / 2 / 3 / 4)\n• TP to Middle of Map\n• TP to Mountain / Prison\n• TP to Atomic Slash Room\n• TP to Atomic Base\n• TP to Void / Smoke / Pixel\n\nMOVESETS\n\n• Goku\n• Shiryu\n• Gojo\n• Mahito\n• Toji\n• Minos Prime\n• Arcaura\n• Yuji / Sukuna Yuji\n• Cyber Psycho\n• Trashcan Killer\n• + More\n\nFLING\n\n• Select Player Fling\n• Fling Aura\n• Touch Fling\n• Click Fling\n• Loop Fling\n• View Target / Orbit View\n• Notify on Death\n• Camera Aimlock\n• Character Aimlock\n• Custom Fling Power\n• Fling All [Buggy]\n\nEXTRAS\n\n• ESP (Everyone / Death Counter / Ult Bar)\n• Anti-AFK\n• Anti Stun\n• Anti Invisibility\n• Speed (V Key Toggle)\n• Jump Boost\n• Server Hop / Rejoin / Reset\n• Infinite Yield\n• Dex Explorer\n• Remote Spy\n• Fly V3"
-    }
-  ],
+  "games": [],
   "scripts": [
     {
       "name": "CSLoader.lua",
